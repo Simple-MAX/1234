@@ -1,0 +1,4 @@
+#Wed Feb 12 17:51:45 CET 2020
+base.0=C\:\\Users\\matin.akbari\\Apps\\flutter_speech_to_text\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
